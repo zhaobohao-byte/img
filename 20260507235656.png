@@ -1,0 +1,42 @@
+model = "gpt-5.5"
+model_reasoning_effort = "high"
+personality = "pragmatic"
+
+[tui]
+hide_agent_reasoning = true
+
+[tui.model_availability_nux]
+"gpt-5.5" = 4
+
+[projects."/home/luvbot/workspace/GMR"]
+trust_level = "trusted"
+
+[projects."/home/luvbot/workspace/bvh_to_csv"]
+trust_level = "trusted"
+
+[projects."/home/luvbot/workspace/whole_body_tracking_g1"]
+trust_level = "trusted"
+
+[projects."/home/luvbot/下载"]
+trust_level = "trusted"
+
+[projects."/home/luvbot/workspace/robot_motion_editor"]
+trust_level = "trusted"
+
+[projects."/home/luvbot"]
+trust_level = "trusted"
+
+[projects."/home/luvbot/workspace/algorithm/mimic_distill_walk"]
+trust_level = "trusted"
+
+[projects."/home/luvbot/workspace/papers"]
+trust_level = "trusted"
+
+[projects."/home/luvbot/workspace/l0_v2_description"]
+trust_level = "trusted"
+
+[projects."/home/luvbot/workspace/whole_body_tracking"]
+trust_level = "trusted"
+
+[projects."/home/luvbot/workspace/papers/PHP"]
+trust_level = "trusted"
